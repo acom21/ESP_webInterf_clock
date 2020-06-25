@@ -1,2 +1,2 @@
-# ESP_webInterf_clock
+# ESP_WebInterf_clock
 Esp wireless clock control
